@@ -1,0 +1,91 @@
+@font-face {
+    font-family: 'GoodDog New';
+    src: url('../font/');
+    src: url('../font/?#iefix') format('embedded-opentype'),
+        url('../font/GoodDogNew.woff2') format('woff2'),
+        url('../font/GoodDogNew.woff') format('woff'),
+        url('../font/GoodDogNew.ttf') format('truetype'),
+        url('../font/GoodDogNew.svg#GoodDogNew') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Effra';
+    src: url('../font/Effra-Bold.eot');
+    src: url('../font/Effra-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../font/Effra-Bold.woff2') format('woff2'),
+        url('../font/Effra-Bold.woff') format('woff'),
+        url('../font/Effra-Bold.ttf') format('truetype'),
+        url('../font/Effra-Bold.svg#Effra-Bold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Effra';
+    src: url('../font/');
+    src: url('../font/?#iefix') format('embedded-opentype'),
+        url('../font/Effra-Heavy.woff2') format('woff2'),
+        url('../font/Effra-Heavy.woff') format('woff'),
+        url('../font/Effra-Heavy.ttf') format('truetype'),
+        url('../font/Effra-Heavy.svg#Effra-Heavy') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('../font/Inter-Bold.eot');
+    src: url('../font/Inter-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../font/Inter-Bold.woff2') format('woff2'),
+        url('../font/Inter-Bold.woff') format('woff'),
+        url('../font/Inter-Bold.ttf') format('truetype'),
+        url('../font/Inter-Bold.svg#Inter-Bold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../font/');
+    src: url('../font/?#iefix') format('embedded-opentype'),
+        url('../font/Roboto-Regular.woff2') format('woff2'),
+        url('../font/Roboto-Regular.woff') format('woff'),
+        url('../font/Roboto-Regular.ttf') format('truetype'),
+        url('../font/Roboto-Regular.svg#Roboto-Regular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('../font/Inter-Medium.eot');
+    src: url('../font/Inter-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../font/Inter-Medium.woff2') format('woff2'),
+        url('../font/Inter-Medium.woff') format('woff'),
+        url('../font/Inter-Medium.ttf') format('truetype'),
+        url('../font/Inter-Medium.svg#Inter-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Effra';
+    src: url('../font/');
+    src: url('../font/?#iefix') format('embedded-opentype'),
+        url('../font/Effra.woff2') format('woff2'),
+        url('../font/Effra.woff') format('woff'),
+        url('../font/Effra.ttf') format('truetype'),
+        url('../font/Effra.svg#Effra') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
